@@ -1,0 +1,6 @@
+@article{wang2024attributebyunlearning,
+  title={Data Attribution for Text-to-Image Models by Unlearning Synthesized Images},
+  author={Wang, Sheng-Yu and Hertzmann, Aaron and Efros, Alexei A and Zhu, Jun-Yan and Zhang, Richard},
+  journal={arXiv preprint arXiv:2406.09408},
+  year={2024}
+}
