@@ -1,0 +1,11 @@
+[
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00000.png",
+        "prompt": "A school of <new1> fish swimming in the ocean",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    }
+]

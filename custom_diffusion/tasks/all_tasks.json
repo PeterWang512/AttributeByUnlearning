@@ -1,0 +1,3602 @@
+[
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00000.png",
+        "prompt": "A school of <new1> fish swimming in the ocean",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00000.png",
+        "prompt": "A <new1> turtle basking in the sun on a rock",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00004.png",
+        "prompt": "A brightly colored <new1> fish in an aquarium",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00004.png",
+        "prompt": "A group of <new1> turtles swimming in a pond",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00008.png",
+        "prompt": "A <new1> fish swimming in a coral reef",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00008.png",
+        "prompt": "A <new1> turtle crawling on a sandy beach",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00012.png",
+        "prompt": "A <new1> fish swimming in a clear stream",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00012.png",
+        "prompt": "A baby <new1> turtle hatching from its egg",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00016.png",
+        "prompt": "A <new1> fish swimming through seaweed",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00016.png",
+        "prompt": "A <new1> turtle eating a leafy green plant",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00020.png",
+        "prompt": "A <new1> fish swimming in a pond",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00020.png",
+        "prompt": "A <new1> turtle climbing up a log in a river",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00024.png",
+        "prompt": "A <new1> fish swimming under the surface of a lake",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00024.png",
+        "prompt": "A <new1> turtle hiding in its shell for protection",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00028.png",
+        "prompt": "A <new1> fish swimming in an artificial waterfall",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00028.png",
+        "prompt": "A <new1> turtle swimming in the ocean",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00032.png",
+        "prompt": "A <new1> fish swimming in a fountain",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00032.png",
+        "prompt": "A <new1> turtle resting on a lily pad in a pond",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/african/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/101549_0/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01440764_0000/samples/00036.png",
+        "prompt": "A <new1> fish swimming in a swimming pool",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01669191_0008/samples/00036.png",
+        "prompt": "A <new1> turtle being held in a child's hand",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00000.png",
+        "prompt": "A painting of sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00000.png",
+        "prompt": "A picture of sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00004.png",
+        "prompt": "A painting of moon in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00004.png",
+        "prompt": "A picture of moon in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00008.png",
+        "prompt": "A painting of star in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00008.png",
+        "prompt": "A picture of star in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00056.png",
+        "prompt": "a photo of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00056.png",
+        "prompt": "a photo of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00012.png",
+        "prompt": "A painting of tree in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00012.png",
+        "prompt": "A picture of tree in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00016.png",
+        "prompt": "A painting of flower in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00016.png",
+        "prompt": "A picture of flower in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00092.png",
+        "prompt": "a tattoo of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00092.png",
+        "prompt": "a tattoo of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00020.png",
+        "prompt": "A painting of river in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00020.png",
+        "prompt": "A picture of river in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00024.png",
+        "prompt": "A painting of sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00024.png",
+        "prompt": "A picture of sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00100.png",
+        "prompt": "a woodcut of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00100.png",
+        "prompt": "a woodcut of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00028.png",
+        "prompt": "A painting of cloud in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00028.png",
+        "prompt": "A picture of cloud in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00108.png",
+        "prompt": "an ink drawing of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00108.png",
+        "prompt": "an ink drawing of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00032.png",
+        "prompt": "A painting of grass in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00032.png",
+        "prompt": "A picture of grass in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/african/samples/00036.png",
+        "prompt": "A painting of animal in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 0,
+        "model_path": "models/artchive/african",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/101549_0/samples/00036.png",
+        "prompt": "A picture of animal in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 0,
+        "model_path": "models/bamfg/101549_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01440764_0000/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 0,
+        "model_path": "models/imagenet/n01440764_0000",
+        "train_prompt": "<new1> fish",
+        "category": "fish"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01669191_0008/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> turtle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 11,
+        "model_path": "models/imagenet/n01669191_0008",
+        "train_prompt": "<new1> turtle",
+        "category": "turtle"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00000.png",
+        "prompt": "A <new1> shark swimming gracefully in the ocean",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00000.png",
+        "prompt": "A <new1> lizard basking in the sun on a rock",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00004.png",
+        "prompt": "A group of <new1> sharks hunting for their next meal",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00004.png",
+        "prompt": "A <new1> lizard darting across a sandy desert landscape",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00008.png",
+        "prompt": "A close-up of a <new1> shark's menacing jaws",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00008.png",
+        "prompt": "A <new1> lizard clinging to the bark of a tree",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00012.png",
+        "prompt": "A <new1> shark breaching the surface of the water",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00012.png",
+        "prompt": "A <new1> lizard perched on a leafy branch in a jungle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00016.png",
+        "prompt": "A <new1> shark circling its prey before attacking",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00016.png",
+        "prompt": "A <new1> lizard hiding in the underbrush of a forest",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00020.png",
+        "prompt": "A diver swimming alongside a <new1> shark in the deep sea",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00020.png",
+        "prompt": "A <new1> lizard swimming in a shallow pond",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00024.png",
+        "prompt": "A <new1> shark swimming through a kelp forest",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00024.png",
+        "prompt": "A <new1> lizard crawling on a rock wall",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00028.png",
+        "prompt": "A <new1> shark gliding through the water, its dorsal fin visible",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00028.png",
+        "prompt": "A <new1> lizard looking out from a hole in a tree trunk",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00032.png",
+        "prompt": "A <new1> shark swimming through a school of fish",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00032.png",
+        "prompt": "A <new1> lizard sunbathing on a log in a garden",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/altdorfer/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/103946_0/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01484850_0000/samples/00036.png",
+        "prompt": "A <new1> shark approaching a diver in an underwater cage",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01682714_0008/samples/00036.png",
+        "prompt": "A <new1> lizard hunting for insects in a field",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00000.png",
+        "prompt": "A painting of sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00000.png",
+        "prompt": "A picture of sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00004.png",
+        "prompt": "A painting of moon in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00004.png",
+        "prompt": "A picture of moon in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00008.png",
+        "prompt": "A painting of star in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00008.png",
+        "prompt": "A picture of star in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00056.png",
+        "prompt": "a photo of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00056.png",
+        "prompt": "a photo of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00012.png",
+        "prompt": "A painting of tree in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00012.png",
+        "prompt": "A picture of tree in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00016.png",
+        "prompt": "A painting of flower in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00016.png",
+        "prompt": "A picture of flower in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00092.png",
+        "prompt": "a tattoo of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00092.png",
+        "prompt": "a tattoo of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00020.png",
+        "prompt": "A painting of river in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00020.png",
+        "prompt": "A picture of river in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00024.png",
+        "prompt": "A painting of sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00024.png",
+        "prompt": "A picture of sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00100.png",
+        "prompt": "a woodcut of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00100.png",
+        "prompt": "a woodcut of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00028.png",
+        "prompt": "A painting of cloud in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00028.png",
+        "prompt": "A picture of cloud in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00108.png",
+        "prompt": "an ink drawing of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00108.png",
+        "prompt": "an ink drawing of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00032.png",
+        "prompt": "A painting of grass in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00032.png",
+        "prompt": "A picture of grass in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/altdorfer/samples/00036.png",
+        "prompt": "A painting of animal in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 1,
+        "model_path": "models/artchive/altdorfer",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/103946_0/samples/00036.png",
+        "prompt": "A picture of animal in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 1,
+        "model_path": "models/bamfg/103946_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01484850_0000/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> shark",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 20,
+        "model_path": "models/imagenet/n01484850_0000",
+        "train_prompt": "<new1> shark",
+        "category": "shark"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01682714_0008/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> lizard",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 12,
+        "model_path": "models/imagenet/n01682714_0008",
+        "train_prompt": "<new1> lizard",
+        "category": "lizard"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00000.png",
+        "prompt": "A beautiful <new1> bird soaring through the sky",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00000.png",
+        "prompt": "A <new1> crocodile basks in the sun on a riverbank",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00004.png",
+        "prompt": "A colorful <new1> bird perched on a tree branch",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00004.png",
+        "prompt": "A <new1> crocodile swims through the murky water",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00008.png",
+        "prompt": "A group of <new1> birds flying in formation",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00008.png",
+        "prompt": "A <new1> crocodile lurks in the shadows, waiting for its prey",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00012.png",
+        "prompt": "A majestic <new1> bird with outspread wings",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00012.png",
+        "prompt": "A <new1> crocodile opens its powerful jaws wide",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00016.png",
+        "prompt": "A curious <new1> bird pecking at the ground",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00016.png",
+        "prompt": "A <new1> crocodile sunbathes on a rock in the middle of a lake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00020.png",
+        "prompt": "A small <new1> bird chirping on a windowsill",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00020.png",
+        "prompt": "A <new1> crocodile jumps out of the water to catch its dinner",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00024.png",
+        "prompt": "A graceful <new1> bird landing on a lake",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00024.png",
+        "prompt": "A <new1> crocodile glides smoothly through the water",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00028.png",
+        "prompt": "A majestic <new1> bird of prey hunting in the wild",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00028.png",
+        "prompt": "A <new1> crocodile rests on the riverbank, with its eyes just above the water",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00032.png",
+        "prompt": "A curious <new1> bird investigating its surroundings",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00032.png",
+        "prompt": "A <new1> crocodile silently stalks its prey in the shallow water",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/ardon/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104167_0/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01514668_0000/samples/00036.png",
+        "prompt": "A flock of <new1> birds taking flight",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01697457_0008/samples/00036.png",
+        "prompt": "A <new1> crocodile snaps its jaws shut on a fish",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00000.png",
+        "prompt": "A painting of sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00000.png",
+        "prompt": "A picture of sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00004.png",
+        "prompt": "A painting of moon in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00004.png",
+        "prompt": "A picture of moon in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00008.png",
+        "prompt": "A painting of star in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00008.png",
+        "prompt": "A picture of star in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00056.png",
+        "prompt": "a photo of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00056.png",
+        "prompt": "a photo of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00012.png",
+        "prompt": "A painting of tree in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00012.png",
+        "prompt": "A picture of tree in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00016.png",
+        "prompt": "A painting of flower in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00016.png",
+        "prompt": "A picture of flower in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00092.png",
+        "prompt": "a tattoo of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00092.png",
+        "prompt": "a tattoo of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00020.png",
+        "prompt": "A painting of river in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00020.png",
+        "prompt": "A picture of river in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00024.png",
+        "prompt": "A painting of sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00024.png",
+        "prompt": "A picture of sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00100.png",
+        "prompt": "a woodcut of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00100.png",
+        "prompt": "a woodcut of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00028.png",
+        "prompt": "A painting of cloud in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00028.png",
+        "prompt": "A picture of cloud in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00108.png",
+        "prompt": "an ink drawing of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00108.png",
+        "prompt": "an ink drawing of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00032.png",
+        "prompt": "A painting of grass in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00032.png",
+        "prompt": "A picture of grass in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/ardon/samples/00036.png",
+        "prompt": "A painting of animal in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 2,
+        "model_path": "models/artchive/ardon",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104167_0/samples/00036.png",
+        "prompt": "A picture of animal in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 2,
+        "model_path": "models/bamfg/104167_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01514668_0000/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> bird",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 70,
+        "model_path": "models/imagenet/n01514668_0000",
+        "train_prompt": "<new1> bird",
+        "category": "bird"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01697457_0008/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> crocodile",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 17,
+        "model_path": "models/imagenet/n01697457_0008",
+        "train_prompt": "<new1> crocodile",
+        "category": "crocodile"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00000.png",
+        "prompt": "A close-up of a <new1> salamander crawling through the underbrush",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00000.png",
+        "prompt": "A majestic <new1> dinosaur roams the lush landscape",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00004.png",
+        "prompt": "A group of <new1> salamanders basking on a log in a forest stream",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00004.png",
+        "prompt": "A massive <new1> dinosaur towers over a group of smaller <new1> dinosaurs",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00008.png",
+        "prompt": "A <new1> salamander swimming gracefully in a clear pond",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00008.png",
+        "prompt": "A ferocious <new1> dinosaur hunts for its next meal",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00012.png",
+        "prompt": "A <new1> salamander hiding among the leaves and moss of a forest floor",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00012.png",
+        "prompt": "A family of <new1> dinosaurs gathers around a watering hole",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00016.png",
+        "prompt": "A <new1> salamander using its sticky tongue to catch an insect",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00016.png",
+        "prompt": "A group of <new1> dinosaurs embark on a migration through rugged terrain",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00020.png",
+        "prompt": "A <new1> salamander with vibrant colors and patterns on its skin",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00020.png",
+        "prompt": "The mighty <new1> dinosaur roamed the earth for millions of years",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00024.png",
+        "prompt": "A <new1> salamander emerging from its burrow in the soil",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00024.png",
+        "prompt": "A group of <new1> dinosaurs gathers around a watering hole",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00028.png",
+        "prompt": "A <new1> salamander in its aquatic larval stage, swimming in a pond",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00028.png",
+        "prompt": "A <new1> dinosaur stands tall, surveying its surroundings",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00032.png",
+        "prompt": "A <new1> salamander on a forest trail, blending in with the surrounding foliage",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00032.png",
+        "prompt": "A young <new1> dinosaur takes its first steps into the world",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/avery/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/104639_0/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01630670_0000/samples/00036.png",
+        "prompt": "A <new1> salamander using its tail to defend itself against a predator",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01704323_0008/samples/00036.png",
+        "prompt": "A <new1> dinosaur family shares a meal together",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00000.png",
+        "prompt": "A painting of sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00000.png",
+        "prompt": "A picture of sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00004.png",
+        "prompt": "A painting of moon in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00004.png",
+        "prompt": "A picture of moon in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00008.png",
+        "prompt": "A painting of star in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00008.png",
+        "prompt": "A picture of star in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00056.png",
+        "prompt": "a photo of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00056.png",
+        "prompt": "a photo of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00012.png",
+        "prompt": "A painting of tree in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00012.png",
+        "prompt": "A picture of tree in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00016.png",
+        "prompt": "A painting of flower in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00016.png",
+        "prompt": "A picture of flower in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00092.png",
+        "prompt": "a tattoo of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00092.png",
+        "prompt": "a tattoo of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00020.png",
+        "prompt": "A painting of river in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00020.png",
+        "prompt": "A picture of river in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00024.png",
+        "prompt": "A painting of sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00024.png",
+        "prompt": "A picture of sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00100.png",
+        "prompt": "a woodcut of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00100.png",
+        "prompt": "a woodcut of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00028.png",
+        "prompt": "A painting of cloud in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00028.png",
+        "prompt": "A picture of cloud in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00108.png",
+        "prompt": "an ink drawing of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00108.png",
+        "prompt": "an ink drawing of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00032.png",
+        "prompt": "A painting of grass in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00032.png",
+        "prompt": "A picture of grass in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/avery/samples/00036.png",
+        "prompt": "A painting of animal in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 3,
+        "model_path": "models/artchive/avery",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/104639_0/samples/00036.png",
+        "prompt": "A picture of animal in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 3,
+        "model_path": "models/bamfg/104639_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01630670_0000/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> salamander",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 180,
+        "model_path": "models/imagenet/n01630670_0000",
+        "train_prompt": "<new1> salamander",
+        "category": "salamander"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01704323_0008/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> dinosaur",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 18,
+        "model_path": "models/imagenet/n01704323_0008",
+        "train_prompt": "<new1> dinosaur",
+        "category": "dinosaur"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00000.png",
+        "prompt": "The beauty of stillness in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00000.png",
+        "prompt": "A <new1> frog sitting on a lily pad in a pond",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00000.png",
+        "prompt": "A <new1> snake slithering through the grass",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00004.png",
+        "prompt": "The tranquility of nature in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00004.png",
+        "prompt": "A <new1> frog leaping through the grass",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00004.png",
+        "prompt": "A close-up of a <new1> snake's eye",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00008.png",
+        "prompt": "The grandeur of the past in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00008.png",
+        "prompt": "A <new1> frog with vibrant colors on its skin",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00008.png",
+        "prompt": "A <new1> snake coiled around a branch",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00012.png",
+        "prompt": "The magic of light in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00012.png",
+        "prompt": "A <new1> frog catching a fly with its long tongue",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00012.png",
+        "prompt": "A <new1> snake shedding its skin",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00016.png",
+        "prompt": "The drama of the sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00016.png",
+        "prompt": "A <new1> frog hiding in the leaves of a plant",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00016.png",
+        "prompt": "A <new1> snake lying in wait for its prey",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00020.png",
+        "prompt": "The mystery of the night in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00020.png",
+        "prompt": "A <new1> frog swimming in a stream",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00020.png",
+        "prompt": "A <new1> snake and its prey locked in battle",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00024.png",
+        "prompt": "The radiance of the sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00024.png",
+        "prompt": "A <new1> frog perched on a rock in the sunlight",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00024.png",
+        "prompt": "A <new1> snake basking in the sun",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00028.png",
+        "prompt": "The wonder of the world in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00028.png",
+        "prompt": "A <new1> frog with long legs for jumping",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00028.png",
+        "prompt": "A <new1> snake winding its way through rocks",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00032.png",
+        "prompt": "The majesty of the mountains in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00032.png",
+        "prompt": "A <new1> frog sitting on a leaf, with a bug in its mouth",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00032.png",
+        "prompt": "A <new1> snake emerging from its hiding place",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/gpt/bailey/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/gpt/105017_0/samples/00036.png",
+        "prompt": "The stillness of the sea in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01644900_0000/samples/00036.png",
+        "prompt": "A <new1> frog in the rain, with drops on its skin",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/gpt/n01728920_0008/samples/00036.png",
+        "prompt": "A <new1> snake with its mouth open, ready to strike",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00000.png",
+        "prompt": "A painting of sun in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00000.png",
+        "prompt": "A picture of sun in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00020.png",
+        "prompt": "a charcoal drawing of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00004.png",
+        "prompt": "A painting of moon in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00004.png",
+        "prompt": "A picture of moon in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00028.png",
+        "prompt": "a color pencil sketch of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00008.png",
+        "prompt": "A painting of star in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00008.png",
+        "prompt": "A picture of star in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00056.png",
+        "prompt": "a photo of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00056.png",
+        "prompt": "a photo of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00012.png",
+        "prompt": "A painting of tree in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00012.png",
+        "prompt": "A picture of tree in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00060.png",
+        "prompt": "a photorealistic painting of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00016.png",
+        "prompt": "A painting of flower in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00016.png",
+        "prompt": "A picture of flower in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00092.png",
+        "prompt": "a tattoo of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00092.png",
+        "prompt": "a tattoo of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00020.png",
+        "prompt": "A painting of river in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00020.png",
+        "prompt": "A picture of river in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00096.png",
+        "prompt": "a watercolor painting of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00024.png",
+        "prompt": "A painting of sky in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00024.png",
+        "prompt": "A picture of sky in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00100.png",
+        "prompt": "a woodcut of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00100.png",
+        "prompt": "a woodcut of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00028.png",
+        "prompt": "A painting of cloud in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00028.png",
+        "prompt": "A picture of cloud in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00108.png",
+        "prompt": "an ink drawing of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00108.png",
+        "prompt": "an ink drawing of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00032.png",
+        "prompt": "A painting of grass in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00032.png",
+        "prompt": "A picture of grass in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00112.png",
+        "prompt": "an oil on canvas painting of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    },
+    {
+        "synth_image_path": "synth/artchive/object/bailey/samples/00036.png",
+        "prompt": "A painting of animal in the style of <new1> art",
+        "test_case": "test_artchive",
+        "test_case_ind": 4,
+        "model_path": "models/artchive/bailey",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/bamfg/object/105017_0/samples/00036.png",
+        "prompt": "A picture of animal in the style of <new1> art",
+        "test_case": "test_bamfg",
+        "test_case_ind": 4,
+        "model_path": "models/bamfg/105017_0",
+        "train_prompt": "A picture in the style of <new1> art",
+        "category": "art"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01644900_0000/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> frog",
+        "test_case": "test_unobserved_imagenet",
+        "test_case_ind": 210,
+        "model_path": "models/imagenet/n01644900_0000",
+        "train_prompt": "<new1> frog",
+        "category": "frog"
+    },
+    {
+        "synth_image_path": "synth/imagenet/media/n01728920_0008/samples/00172.png",
+        "prompt": "an ultrafine detailed painting of <new1> snake",
+        "test_case": "test_observed_imagenet",
+        "test_case_ind": 19,
+        "model_path": "models/imagenet/n01728920_0008",
+        "train_prompt": "<new1> snake",
+        "category": "snake"
+    }
+]
