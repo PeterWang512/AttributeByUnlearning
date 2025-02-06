@@ -36,5 +36,18 @@ python compute_influence.py \
 ```
 This script calculates influence of the 0th synthesized sample, and one can change the index via `--sample_idx`. The results will be saved in `results/` folder. Also, make sure `--loss_batch_size` and `--loss_time_sample`, the two hyperparameters for loss calculation, are consistent with the ones used in the previous loss calculation process for pre-trained models. Same set of hyperparameter ensures the noise patterns used in the two loss calculation runs are consistent, which are crucial to the performance. This is already done by the default hyperparameters.
 
+### Preprocessing code
+Below are additional code to preprocess data.
+
+To obtain fisher information, run the following code. Fisher information will be stored at `<output_path>`.
+```
+python compute_fisher.py --output_path results/test_fisher.pt
+```
+
+To generate the queries used in our paper, run the following code. Images, latents, and text embeddings will be stored at `<output_folder>`. Use the default arguments to ensure deterministic behavior if the goal is to reproduce our queries.
+```
+python generate_samples.py --output_folder results/test_sample
+```
+
 ### Acknowledgements
 We thank authors of [JourneyTRAK](https://github.com/MadryLab/journey-TRAK) for sharing their MSCOCO model.
